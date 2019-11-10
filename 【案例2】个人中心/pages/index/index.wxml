@@ -1,0 +1,11 @@
+<view class="nav">
+  <text class="welcome">欢迎来到我的个人页</text>
+  <image src="/images/avatar.jpg" mode="aspectFill" bindtap="changeImage"></image>
+</view>
+<view class="content">
+  <view>昵称：杨倩倩135</view>
+  <view>星座：天蝎座</view>
+  <view>兴趣：旅行、摄影</view>
+  <view>Email:2410***625</view>
+  <view>电话：178****0971</view>
+</view>
